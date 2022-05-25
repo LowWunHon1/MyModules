@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/c218"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C218 UI/UX Design for Apps" />
+
+    <TextView
+        android:id="@+id/c206"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C206 Software Development Process" />
+
+    <TextView
+        android:id="@+id/g953"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="G953 Life Skills III" />
+
+    <TextView
+        android:id="@+id/c346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C346 Mobile App Programming" />
+
+    <TextView
+        android:id="@+id/c203"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C203 Web Appln Development in php" />
+
+    <TextView
+        android:id="@+id/c235"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C235 IT Security and Management" />
+</LinearLayout>
